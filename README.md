@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+### About me
+
+-  `Android` && `kotlin` && `java`
+- wechat：`androidsoft`
+- aliPay：`pay@townwang.com`
+- Blog： https://www.townwang.com/
+- 公众号：`开源人`
+
+[![Townwang's github stats](https://github-readme-stats.vercel.app/api?username=Townwang&show_icons=true&theme=dark)](https://github.com/Townwang/github-readme-stats)
+
+> ***一个有灵魂的程序猿加上一身搬砖技能😊***
