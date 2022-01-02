@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 [![Townwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Townwang&count_private=true&show_icons=true)](https://github.com/Townwang/yaohuo)
 
 > ***一个有灵魂的程序猿加上一身搬砖技能😊***
+
+### My Connon
+ -    implementation 'com.townwang:binding:1.0.0'
