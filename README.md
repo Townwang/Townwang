@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 > ***一个有灵魂的程序猿加上一身搬砖技能😊***
 
-### My Connon
+### My Common
  -    ```implementation 'com.townwang:binding:1.0.0'```
  -    ```implementation 'com.townwang:wechat:1.1.0'```
