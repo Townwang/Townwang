@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 > ***一个有灵魂的程序猿加上一身搬砖技能😊***
 
 ### My Common
- -    ```implementation 'com.townwang:binding:1.0.0'```
- -    ```implementation 'com.townwang:wechat:1.1.0'```
+ - [![]( https://img.shields.io/badge/binding-1.0.0-blue)](https://jitpack.io/#com.townwang/binding)
+ - [![]( https://img.shields.io/badge/weChat-1.1.0-brightgreen)](https://jitpack.io/#com.townwang/wechat)
