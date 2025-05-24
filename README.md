@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### About me
 
 -  `Android` && `kotlin` && `java`
-- wechat：`androidsoft`
+- wechat：`towngame`
 - aliPay：`pay@townwang.com`
 - Blog： https://www.townwang.com/
 - 公众号：`开源人` `软件学` `软件人`
