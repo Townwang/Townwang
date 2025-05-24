@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### My Common
  - [![]( https://img.shields.io/badge/binding-1.0.0-blue)](https://jitpack.io/#com.townwang/binding)
  - [![]( https://img.shields.io/badge/weChat-1.1.0-brightgreen)](https://jitpack.io/#com.townwang/wechat)
-### My Common
+### Learning
 
 <table align="center">
     <tr>
@@ -41,19 +41,13 @@ Here are some ideas to get you started:
             </a>
           </picture>
         </td>
-        <td align="center">
-          <picture>
-            <a href="https://github.com/Townwang/wechat">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=townwang&repo=wechat&show_owner=true">
-            </a>
-          </picture>
-        </td>
-       <td align="center">
-          <picture>
-            <a href="https://github.com/Townwang/binding">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=townwang&repo=binding&show_owner=true">
-            </a>
-          </picture>
-        </td>
     </tr>
 </table>
+
+### Software
+
+<p align="center">
+    <picture>
+        <img src="https://skillicons.dev/icons?i=java,kotlin,py,androidstudio,idea,vscode" />
+    </picture>
+</p>
