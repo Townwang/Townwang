@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - wechat：`androidsoft`
 - aliPay：`pay@townwang.com`
 - Blog： https://www.townwang.com/
-- 公众号：`开源人`
+- 公众号：`开源人` `软件学` `软件人`
 
 [![Townwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Townwang&count_private=true&show_icons=true)](https://github.com/Townwang/yaohuo)
 
@@ -30,3 +30,30 @@ Here are some ideas to get you started:
 ### My Common
  - [![]( https://img.shields.io/badge/binding-1.0.0-blue)](https://jitpack.io/#com.townwang/binding)
  - [![]( https://img.shields.io/badge/weChat-1.1.0-brightgreen)](https://jitpack.io/#com.townwang/wechat)
+### My Common
+
+<table align="center">
+    <tr>
+        <td align="center">
+          <picture>
+            <a href="https://github.com/Townwang/yaohuo">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=townwang&repo=yaohuo&show_owner=true">
+            </a>
+          </picture>
+        </td>
+        <td align="center">
+          <picture>
+            <a href="https://github.com/Townwang/wechat">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=townwang&repo=wechat&show_owner=true">
+            </a>
+          </picture>
+        </td>
+       <td align="center">
+          <picture>
+            <a href="https://github.com/Townwang/binding">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=townwang&repo=binding&show_owner=true">
+            </a>
+          </picture>
+        </td>
+    </tr>
+</table>
