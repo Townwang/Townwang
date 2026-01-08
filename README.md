@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E4%B8%80%E4%B8%AA%E6%9C%89%E7%81%B5%E9%AD%82%E7%9A%84%E7%A8%8B%E5%BA%8F%E7%8C%BF%E5%8A%A0%E4%B8%8A%E4%B8%80%E8%BA%AB%E6%90%AC%E7%A0%96%E6%8A%80%E8%83%BD%F0%9F%98%8A)](https://git.io/typing-svg)
-  <img src="https://townwang.com/ape.svg" /><br>
-
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E4%B8%80%E4%B8%AA%E6%9C%89%E7%81%B5%E9%AD%82%E7%9A%84%E7%A8%8B%E5%BA%8F%E7%8C%BF%E5%8A%A0%E4%B8%8A%E4%B8%80%E8%BA%AB%E6%90%AC%E7%A0%96%E6%8A%80%E8%83%BD%F0%9F%98%8A" />
+<br>
+  <img src="https://townwang.com/ape.svg" />
+<br>
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
     <a href="https://townwang.com"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
